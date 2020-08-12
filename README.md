@@ -67,10 +67,6 @@ This can be one from the following list:
 
     ![Run tests in your IDE](https://learn.code.cool/media/java/run-tests.gif)
 
-## Starting your project
-
-To start your project click [this link](https://journey.code.cool/v2/project/solo/blueprint/wardrobe/java).
-
 ## Background materials
 
 - <i class="far fa-exclamation"></i> [Null are evil](https://learn.code.cool/full-stack/#/../pages/java/java-nulls-are-evil)
